@@ -7,18 +7,21 @@
 
 <h1 align="center">Hi 👋, I'm Med Amine Saassougui</h1>
 <h3 align="center">A passionate software engineer and full-stack web developer hailing from Tunisia, dedicated to crafting exceptional digital experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminesaassougui" alt="aminesaassougui" /></a> </p>
+## 🥇:Achievements
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminesaassougui" alt="aminesaassougui" /></a> </p>
 
 
 ## ✋:About me
+<img width="26%" align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+
 - 🔭 I’m currently studying at ESPRIT Higher School of Engineering  https://esprit.tn/
 - 🔭 currently working on [RH platform for ArabSoft](http://www.arabsoft.com.tn/)
 
 - 🌱 I’m currently learning **Node.js , React.js  and
-  I'm also keeping an eye on emerging frameworks like Vue.js and Svelte, which offer exciting possibilities for creating modern web experiences**
+  I'm also keeping an eye on emerging
+   frameworks like Vue.js and Svelte, which offer exciting possibilities for
+   creating modern web experiences**
 
 - 👯I’m looking to collaborate on open Source Project and to work as freelancer
 
