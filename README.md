@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://aminesaassouguiwebsite)
+<a href="https://aminesaassouguiwebsite" target="_blank">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead">
+</a>
 <h1 align="center">Hi 👋, I'm Med Amine Saassougui</h1>
 <h3 align="center">A passionate software engineer and full-stack web developer hailing from Tunisia, dedicated to crafting exceptional digital experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
