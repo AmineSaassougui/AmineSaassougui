@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **mohamedamine.saassougui@esprit.tn**
 
-- 🖥 Check out my  <a href="https://aminesaassougui.github.io/my-portfolio/" target="_blank"> portfolio_website </a>
+- 🖥 Check out my  <a href="https://aminesaassougui.github.io/Personal-Portfolio-/" target="_blank"> portfolio_website </a>
 
 - ⚡ Fun fact **I code with a soundtrack! My favorite tunes and playlists are the perfect companions for programming sessions, adding rhythm and inspiration to my coding adventures. 🎵👨‍💻**
 
