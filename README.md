@@ -34,7 +34,7 @@
 - 💬 Ask me about **spring or angular or React.js or Node.js**
 
 - 📫 How to reach me **mohamedamine.saassougui@esprit.tn**
-                      **saassouguimedamine@gmail.com**
+                     OR  **saassouguimedamine@gmail.com**
 
 - ⚡ Fun fact **I code with a soundtrack! My favorite tunes and playlists are the perfect companions for programming sessions, adding rhythm and inspiration to my coding adventures. 🎵👨‍💻**
 
