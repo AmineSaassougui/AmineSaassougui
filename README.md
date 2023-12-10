@@ -27,13 +27,14 @@
 
 - 🤝 I’m looking for help with **ArabSoft**
 
-- 👨‍💻 All of my projects are available at my <a href="https://aminesaassougui.github.io/Personal-Portfolio-/" target="_blank"> personal website portfolio </a>
+- 👨‍💻 All of my projects are available at my <a href="https://aminesaassougui.github.io/My-Portfolio-/" target="_blank"> personal website portfolio </a>
 
 - 📝 I regularly write articles on [Soon !!](Soon !!)
 
 - 💬 Ask me about **spring or angular or React.js or Node.js**
 
 - 📫 How to reach me **mohamedamine.saassougui@esprit.tn**
+                      **saassouguimedamine@gmail.com**
 
 - ⚡ Fun fact **I code with a soundtrack! My favorite tunes and playlists are the perfect companions for programming sessions, adding rhythm and inspiration to my coding adventures. 🎵👨‍💻**
 
